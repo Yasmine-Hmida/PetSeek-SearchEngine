@@ -1,7 +1,6 @@
-# PetSeek 🐾
+# PetSeek
 
-**PetSeek** is a smart image search engine for adoptable animals.  
-It allows users to find relevant pet images by typing natural language queries.(e.g: black bulldog, white golden retriever).
+**PetSeek** is a smart image search engine for adoptable animals. It allows users to find relevant pet images by typing natural language queries.(e.g: black bulldog, white golden retriever).
 
 ---
 
@@ -30,4 +29,15 @@ It allows users to find relevant pet images by typing natural language queries.(
 
 1. Click the **"Open in Colab"** button above.
 2. Make sure to enable a GPU from **Runtime > Change runtime type > GPU**.
-3. Run each cell in order to launch PetSeek.
+3. Copy the **ImageSearch** folder into your Google Drive, directly under **My Drive**.
+- The folder structure should look like: <br>
+````
+My Drive/ 
+ └─ ImageSearch/ 
+      ├─ whiteBulldog1.jpg 
+      ├─ turtle1.jpg 
+      └─ ...
+````
+4. Run each cell in order to launch PetSeek.
+- The notebook automatically uses the folder path **/content/drive/MyDrive/ImageSearch**.
+- No path changes are needed if the folder is placed correctly.
