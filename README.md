@@ -12,6 +12,15 @@
 
 ---
 
+## Screenshots
+<p align="center">
+ <img height="600" alt="Screenshot (474)" src="https://github.com/user-attachments/assets/70def882-e8d4-4d71-a44e-f10704d8099f" />
+ <img height="600" alt="Screenshot (475)" src="https://github.com/user-attachments/assets/f02e121b-c5c8-441c-b4fb-1b0ca15cae04" />
+ <img height="600" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/4e87d055-035b-43d4-b49f-101dd902cc90" />
+</p>
+
+---
+
 ## Technologies Used
 
 - Python
