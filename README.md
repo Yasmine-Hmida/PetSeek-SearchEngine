@@ -4,7 +4,7 @@
 
 ---
 
-## 🔍 Features
+## Features
 - Supports multiple pet categories: dogs, cats, turtles, rabbits, birds...
 - Uses OpenAI's **CLIP** model to understand text-image similarity
 - Powered by **FAISS** for fast image indexing and retrieval
@@ -12,18 +12,18 @@
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python
-- [CLIP (Contrastive Language–Image Pretraining)](https://github.com/openai/CLIP)
+- CLIP (Contrastive Language–Image Pretraining)
 - FAISS (Facebook AI Similarity Search)
 - NumPy, PIL, and other helper libraries
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
-### ▶️ Run in Google Colab (No installation needed)
+### Run in Google Colab (No installation needed)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yasmine-Hmida/PetSeek-SearchEngine/blob/main/PetSeek.ipynb)
 
